@@ -1,0 +1,35 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning Libraries
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+lightgbm>=3.3.0
+
+# Time Series Analysis
+statsmodels>=0.13.0
+
+# Web Application
+streamlit>=1.20.0
+plotly>=5.10.0
+
+# Data Processing
+openpyxl>=3.0.0
+xlrd>=2.0.0
+
+# Model Persistence
+joblib>=1.2.0
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2022.1
+
+# Optional Deep Learning (comment out if installation fails)
+# tensorflow>=2.10.0
+# keras>=2.10.0
+
+# Optional Advanced Time Series (comment out if installation fails)  
+# prophet>=1.0.0
