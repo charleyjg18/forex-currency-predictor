@@ -17,7 +17,7 @@ The project uses historical foreign exchange rate data containing:
 ```
 forex-prediction/
 │
-├── analysis.ipynb              # Jupyter lab for EDA and model training
+├── analysis.ipynb             # Jupyter lab for EDA and model training
 ├── app.py                     # Streamlit web application
 ├── Foreign_Exchange_Rates.xls # Dataset
 ├── requirements.txt           # Python dependencies
@@ -28,9 +28,10 @@ forex-prediction/
 ├── models/                   # Saved trained models (created after training)
 │   ├── EUR_USD_model.pkl
 │   ├── GBP_USD_model.pkl
+│   ├── AUD_USD_model.pkl
+│   ├── CAD_USD_model.pkl   
+│   ├── JPY_USD_model.pkl   
 │   └── metadata.pkl
-│
-└── data/                     # Additional data files (optional)
 ```
 ## 🚀 Quick Start
 ### Option 1: Local Development
