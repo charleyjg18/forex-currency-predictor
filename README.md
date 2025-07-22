@@ -17,7 +17,7 @@ The project uses historical foreign exchange rate data containing:
 ```
 forex-prediction/
 │
-├── analysis.ipynb              # Jupyter notebook for EDA and model training
+├── analysis.ipynb              # Jupyter lab for EDA and model training
 ├── app.py                     # Streamlit web application
 ├── Foreign_Exchange_Rates.xls # Dataset
 ├── requirements.txt           # Python dependencies
@@ -208,7 +208,7 @@ PYTHONUNBUFFERED=1         # Real-time logging
 ### Prerequisites
 - Python 3.9+
 - Docker & Docker Compose
-- Jupyter Notebook
+- Jupyter Lab
 - Git
 
 ### Installation Steps
@@ -226,7 +226,7 @@ source venv/bin/activate  # Linux/Mac
 pip install -r requirements.txt
 
 # Launch Jupyter
-jupyter notebook
+jupyter lab
 
 # Run Streamlit app
 streamlit run app.py
