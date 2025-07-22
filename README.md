@@ -1,0 +1,1 @@
+# forex-currency-predictor
