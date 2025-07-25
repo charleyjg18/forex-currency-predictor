@@ -26,12 +26,28 @@ forex-prediction/
 ├── README.md                 # This file
 │
 ├── models/                   # Saved trained models (created after training)
-│   ├── EUR_USD_model.pkl
-│   ├── GBP_USD_model.pkl
-│   ├── AUD_USD_model.pkl
-│   ├── CAD_USD_model.pkl   
-│   ├── JPY_USD_model.pkl   
-│   └── metadata.pkl
+│   ├── AUSTRALIA_model.pkl
+│   ├── BRAZIL_model.pkl
+│   ├── CANADA_model.pkl
+│   ├── CHINA_model.pkl   
+│   ├── DENMARK_model.pkl
+│   ├── EURO_AREA_model.pkl  
+│   ├── HONG_KONG_model.pkl
+│   ├── INDIA_model.pkl
+│   ├── JAPAN_model.pkl
+│   ├── KOREA_model.pkl   
+│   ├── MALAYSIA_model.pkl   
+│   ├── MEXICO_model.pkl
+│   ├── NEW_ZEALAND_model.pkl
+│   ├── NORWAY_model.pkl
+│   ├── SINGAPORE_model.pkl   
+│   ├── SOUTH_AFRICA_model.pkl   
+│   ├── SRI_LANKA_model.pkl
+│   ├── SWEDEN_model.pkl
+│   ├── SWITZERLAND_model.pkl
+│   ├── TAIWAN_model.pkl   
+│   ├── THAILAND_model.pkl   
+│   └── UNITED_KINGDOM_model.pkl
 ```
 ## 🚀 Quick Start
 ### Option 1: Local Development
